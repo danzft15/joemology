@@ -1,0 +1,6 @@
+{
+  "name": "Bandarmologi BEI - Screener & Analisis Saham",
+  "description": "Aplikasi analisis akumulasi dan distribusi saham Bursa Efek Indonesia (BEI) berdasarkan broker summary dan asisten pintar kecerdasan buatan Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
