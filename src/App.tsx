@@ -308,6 +308,7 @@ export default function App() {
                 stockCode={selectedStockCode}
                 watchlistCodes={watchlistCodes}
                 onToggleWatchlist={toggleWatchlist}
+                onSelectStock={navigateToDetail}
               />
             )}
 
